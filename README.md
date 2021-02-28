@@ -48,7 +48,16 @@ This is the main code in which we have trained the model and exported it to run 
   API:
         TensorFlowLite
         
-  Package list:
-        
-  Dataset: The One provided 
+  Used Android studio for App development .
+Used Language = java
+We sync all the grade files.
+Changed the model files and update it with the new model
+Working model file name is model.tflite
+Tflite classifier working java files are 
+CameraActivity.java
+CamerConnectionFragment.java
+ClasssifierActivity.java
+LegacyCameraConnectionFreagment.java
+
+Dataset: Uploaded on Github
    
