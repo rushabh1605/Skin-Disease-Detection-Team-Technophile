@@ -1,0 +1,2 @@
+# Skin-Disease-Detection-Team-Technophile
+We are team technophiles and participated in 48hrs hackathon organized by Nirma University with Binghamton University. Our Problem Definition : To develop a solution, the first step is to understand the problem. The problem here is to develop an Application Programming Interface which can be easily integrated with Android and IOS to detect the skin disease without any physical interaction with a Dermatologist. The detected skin disease should be sent through whatsapp to a particular patient and doctor.
