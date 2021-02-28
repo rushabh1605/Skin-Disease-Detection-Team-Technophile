@@ -60,4 +60,6 @@ ClasssifierActivity.java
 LegacyCameraConnectionFreagment.java
 
 Dataset: Uploaded on Github
-   
+ 
+ 
+ **WORKING MODEL LINK: https://drive.google.com/file/d/1BnqfFInFkJJDkYDlmdj9VB601f7PjTdj/view?usp=sharing**
